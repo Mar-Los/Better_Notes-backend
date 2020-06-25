@@ -1,5 +1,5 @@
 # Better Notes - backend
-This is a backend to a mobile app which you can find in this [repository](https://github.com/Mar-Los/Better_Notes-frontend). The goal of this app is to store notes in interesting formats in a database.
+This is a backend to a mobile app which you can find in this [repository](https://github.com/Mar-Los/Better_Notes-frontend). The goal of this app is to store interestingly formated notes in a folder system in a database.
 
 ### Currently supported formats
 - Text - plain text notes
@@ -12,5 +12,5 @@ Each user has their own folder tree. Notes are related to folders.
 
 ### Used technologies
 - [Laravel 7](https://laravel.com/)
-- [Kalnoy/nestedset](https://github.com/lazychaser/laravel-nestedset)
-- [Tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth)
+- [Kalnoy/nestedset](https://github.com/lazychaser/laravel-nestedset) - Laravel package for working with trees in relational databases
+- [Tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth) - JWT authentication for Laravel & Lumen
