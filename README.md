@@ -10,7 +10,7 @@ Another key feature of this app is the possibility to store notes in a treelike 
 ### Design of the database
 Each user has their own folder tree. Notes are related to folders.
 
-## Used technologies
+### Used technologies
 - [Laravel 7](https://laravel.com/)
 - [Kalnoy/nestedset](https://github.com/lazychaser/laravel-nestedset)
 - [Tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth)
