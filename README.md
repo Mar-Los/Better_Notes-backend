@@ -1,8 +1,8 @@
 # Better Notes - backend
-This is a backend to a mobile app which you can find in this [repository](https://github.com/Mar-Los/Better_Notes-frontend). The goal of this app is to enable users to store their note files in specific folders of a folder system created by them. This structure is not stored on their phones, but in a database.
+This is a backend to a mobile app which you can find in this [repository](https://github.com/Mar-Los/Better_Notes-frontend). The goal of this app is to enable users to store their note files in specific folders of a folder system created by them and to give them an opportunity to access their files and folders from a different device.
 
 ## Description of the app
-This app behaves like "better" notes. Users need to authenticate in order to use the app. Each file belongs to a folder of a folder tree. This tree is created by users themselves. This whole structure is stored in a database, so users can access their folders and files even with a different device.
+This app behaves like "better" notes. Users need to authenticate in order to use the app. Each file belongs to a folder of a folder tree. This tree is created by users themselves. This whole structure is stored in a database.
 
 ## Features
 - Tree-like folder system stored in reletional database
